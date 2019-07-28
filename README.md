@@ -1,5 +1,6 @@
 # OneIndex
-Onedrive Directory Index
+
+基于项目：[donwa/oneindex](https://github.com/donwa/oneindex)
 
 ## 功能：
 不占用服务器空间，不走服务器流量，  
@@ -7,7 +8,7 @@ Onedrive Directory Index
 直接列出 OneDrive 目录，文件直链下载。  
 
 ## Demo
-[https://xn.tn](https://xn.tn)  
+[https://drive.lanshow.tk](https://drive.lanshow.tk)  
 
 ## 安装运行
 
