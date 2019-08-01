@@ -94,3 +94,7 @@ php one.php upload:file demo.zip /test/d.zip
 //上传up/ 到OneDrive /test/ 目录  
 php one.php upload:file up/ /test/
 ```
+
+#　附录
+
+nexmoe主题来自[coolssr/oneindex-embellish](https://github.com/coolssr/oneindex-embellish)
