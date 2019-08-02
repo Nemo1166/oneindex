@@ -2,6 +2,12 @@
 
 基于项目：[donwa/oneindex](https://github.com/donwa/oneindex)
 
+Modification:
+
+- 并入主题[coolssr/oneindex-embellish](https://github.com/coolssr/oneindex-embellish)
+- [一言](https://hitokoto.cn/) at HEAD
+- 其他细节优化
+
 ## 功能：
 不占用服务器空间，不走服务器流量，  
 

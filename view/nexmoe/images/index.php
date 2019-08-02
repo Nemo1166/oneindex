@@ -5,7 +5,7 @@
 <div class="mdui-container-fluid">
 
 <div class="nexmoe-item" style="padding: 100px!important;">
-	<div class="mdui-typo-display-3-opacity" style="text-align:center;">OneImages</div>
+	<div class="mdui-typo-display-3-opacity" style="text-align:center;"><i class="mdui-icon material-icons">&#xe2c3;</i> OneImages</div>
 
 	<form action="" method="post" enctype="multipart/form-data">
 		<input class="mdui-center" type="file" style="margin: 50px 0;" name="file" />
