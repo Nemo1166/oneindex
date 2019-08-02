@@ -87,16 +87,6 @@ body {
 	}
 }
 
-@keyframes comeIn {
-	from {
-		bottom: -20px;
-	}
-
-	to {
-		bottom: 30px;
-	}
-}
-
 #comeIn {
 	width: 350px;
 	padding: 16px 0 16px 0;
@@ -108,7 +98,6 @@ body {
 	border-radius: 16px;
 	background: rgba(227,245,255,.4);
 	box-shadow: 0 3px 6px 0 rgba(0,0,0,.2);
-	animation: comeIn .5s forwards;
 }
 
 #blog {

@@ -18,15 +18,16 @@ function file_ico($item){
 <?php view::begin('content');?>
 	
 <div class="mdui-container-fluid">
-<?php if($head):?>
-<div class="mdui-typo" style="padding: 20px;">
-	<?php e($head);?>
-	<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-	<blockquote>
-		<center><p id="hitokoto">:D 获取中...</p></center>
-	</blockquote>
-</div>
-<?php endif;?>
+<div class="mdui-container-fluid">
+  	<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+  	<div class="mdui-typo" style="padding: 20px;">
+		<blockquote>
+			<center><p id="hitokoto">:D 获取中...</p></center>
+		</blockquote>
+		<?php if($head):?>
+			<?php e($head);?>
+		<?php endif;?>
+	</div>
 <style>
 .thumb .th{
 	display: none;
@@ -112,7 +113,7 @@ function file_ico($item){
 </div>
 </div>
 <?php if($readme):?>
-<div class="mdui-typo mdui-shadow-3" style="padding: 20px;margin: 10px; 0">
+<div class="mdui-typo mdui-shadow-3" style="background:#f0f8ff;padding: 20px;margin: 10px; 0">
 	<?php e($readme);?>
 </div>
 <?php endif;?>
