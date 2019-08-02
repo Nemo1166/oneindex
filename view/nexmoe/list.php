@@ -21,6 +21,10 @@ function file_ico($item){
 <?php if($head):?>
 <div class="mdui-typo" style="padding: 20px;">
 	<?php e($head);?>
+	<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+	<blockquote>
+		<center><p id="hitokoto">:D 获取中...</p></center>
+	</blockquote>
 </div>
 <?php endif;?>
 <style>
