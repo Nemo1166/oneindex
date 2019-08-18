@@ -6,6 +6,7 @@ Modification:
 
 - 并入主题[coolssr/oneindex-embellish](https://github.com/coolssr/oneindex-embellish)
 - [一言](https://hitokoto.cn/) at HEAD
+- 图床功能
 - 其他细节优化
 
 ## 功能：
